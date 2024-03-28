@@ -1,0 +1,3 @@
+- [grommet.scad] and [pin.scad] are configurable via OpenSCAD or similar. 
+- [grommet.stl] and [pin.stl] are rendered with default values.
+- [example.jpg] shows both in use together.
