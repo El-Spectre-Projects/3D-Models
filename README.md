@@ -6,4 +6,4 @@ Models should also be available on [Thingiverse](https://www.thingiverse.com/el_
 
 [Extra large / odd sized bins for the Stanley 25 bin organizer](stanley-bins-extra-large)
 
-[Simple bracket for a wall mounted Raspberry Pi](simple-pi-bracket) Mount with screws, attach with zip tie. [Pi kit](https://www.amazon.com/gp/product/B0B3M2HKN6)
+[Simple bracket for a wall mount for Raspberry Pi](simple-pi-bracket) Mount with screws, attach with zip tie. [Pi kit](https://www.amazon.com/gp/product/B0B3M2HKN6)
